@@ -1,0 +1,5 @@
+"parent": "block/cube_all",
+"textures": {
+"all": "ominoussorcery:block/grendelwood_planks"
+}
+}
