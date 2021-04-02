@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "block/cube_all",
   "textures": {
-    "layer0": "ominoussorcery:item/grindleberries"
+    "all": "ominoussorcery:block/grendelwood_planks"
   }
 }
